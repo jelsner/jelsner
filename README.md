@@ -1,6 +1,5 @@
 - 👋 Hi, I’m James B. Elsner
 - 👀 I’m interested in climate change and storms
-- 🌱 I’m currently learning how to use Quarto
 - 📫 How to reach me james.elsner@gmail.com
 
 <!---
