@@ -1,5 +1,4 @@
 - 👋 Hi, I’m James B. Elsner
-- 👀 I’m interested in climate change and storms
 - 📫 How to reach me james.elsner@gmail.com
 
 <!---
