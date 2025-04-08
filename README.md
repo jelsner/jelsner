@@ -6,4 +6,4 @@ jelsner/jelsner is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<a rel="me" href="https://fediscience.org/@jelsner">Mastodon</a>
+<a rel="me" href="@jameselsner.bsky.social"</a>
